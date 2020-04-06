@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b3177683.chunk.css",
+    "main.js": "/static/js/main.6b266200.chunk.js",
+    "main.js.map": "/static/js/main.6b266200.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.34594f18.js",
+    "runtime-main.js.map": "/static/js/runtime-main.34594f18.js.map",
+    "static/css/2.2ce93ba3.chunk.css": "/static/css/2.2ce93ba3.chunk.css",
+    "static/js/2.95d14a21.chunk.js": "/static/js/2.95d14a21.chunk.js",
+    "static/js/2.95d14a21.chunk.js.map": "/static/js/2.95d14a21.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.552044f7ee2f0dfe5b517353ee88e50c.js": "/precache-manifest.552044f7ee2f0dfe5b517353ee88e50c.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.2ce93ba3.chunk.css.map": "/static/css/2.2ce93ba3.chunk.css.map",
+    "static/css/main.b3177683.chunk.css.map": "/static/css/main.b3177683.chunk.css.map",
+    "static/js/2.95d14a21.chunk.js.LICENSE.txt": "/static/js/2.95d14a21.chunk.js.LICENSE.txt",
+    "static/media/UploadIcon.svg": "/static/media/UploadIcon.1cedb6e9.svg",
+    "static/media/logoRakord600.jpg": "/static/media/logoRakord600.8e49c946.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.34594f18.js",
+    "static/css/2.2ce93ba3.chunk.css",
+    "static/js/2.95d14a21.chunk.js",
+    "static/css/main.b3177683.chunk.css",
+    "static/js/main.6b266200.chunk.js"
+  ]
+}
